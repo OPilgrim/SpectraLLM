@@ -7,9 +7,9 @@ This work introduces **SpectraLLM**, a large language model that performs end-to
 ## How to run
 1、Environment Setup
 
-The environment is based on LlamaFactory，To set up the required dependencies, you can install them by using the provided requirements.txt.gz:
+The environment is based on **Llama-Factory**. To set up the required dependencies, you can install them by using the provided requirements.txt:
 
-`#pip install -r requirements.txt.gz`
+`#pip install -r requirements.txt`
 
 Ensure you have the necessary versions of Python and other libraries installed for smooth setup.
 
