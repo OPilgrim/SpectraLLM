@@ -1,0 +1,75 @@
+{
+  "qm9s_all_test": {
+    "file_name": "qm9s_all_test_few.jsonl",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response",
+      "system": "system"
+    }
+  },
+  "mix_train": {
+    "file_name": "mix_all_train_few.jsonl",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response",
+      "system": "system"
+    }
+  },
+  "MSD_all_train": {
+    "file_name": "prompt_MultiSpecDataset_train_few.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "system": "system"
+    }
+  },
+  "qm9s_all_train": {
+    "file_name": "prompt_qm9s_train_few.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "system": "system"
+    }
+  },
+  "QM9S_ir_train": {
+    "file_name": "prompt_qm9s_ir_train_few.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "system": "system"
+    }
+  },
+  "MB_train": {
+    "file_name": "MassBank_train_few.json",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response",
+      "system": "system"
+    }
+  },
+  "MSG_train": {
+    "file_name": "MassSpecGym_train_few.json",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response",
+      "system": "system"
+    }
+  },
+  "MSD_ir_train": {
+    "file_name": "prompt_MultiSpecDataset_ir_train_nodup_few.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "system": "system"
+    }
+  },
+  "MSD_nmr_train": {
+    "file_name": "MultiSpecDataset_nmr_train_few.jsonl",
+    "columns": {
+      "prompt": "prompt",
+      "response": "response",
+      "system": "system"
+    }
+  }
+}
+

@@ -1,0 +1,43 @@
+# Qwen3-32B 模型 LoRA 微调配置文件
+
+# 基本配置
+stage: sft
+do_train: true
+finetuning_type: lora
+template: qwen3
+
+# 数据配置
+dataset: qm9s_all_train,MSD_all_train,mix_train
+cutoff_len: 1280
+max_samples: 10000000
+preprocessing_num_workers: 48
+dataloader_num_workers: 48
+
+# 训练参数
+learning_rate: 0.00005
+num_train_epochs: 1.0
+per_device_train_batch_size: 8
+gradient_accumulation_steps: 4
+lr_scheduler_type: cosine
+max_grad_norm: 1.0
+optim: adamw_torch
+
+# LoRA 参数
+lora_rank: 8
+lora_dropout: 0.0
+lora_target: all
+
+# 输出配置
+logging_steps: 200
+save_steps: 10000
+plot_loss: true
+
+# 性能优化
+flash_attn: auto
+enable_liger_kernel: true
+bf16: true
+packing: false
+report_to: none
+trust_remote_code: true
+ddp_timeout: 180000000
+include_num_input_tokens_seen: true

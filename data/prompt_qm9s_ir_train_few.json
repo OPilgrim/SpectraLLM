@@ -1,0 +1,1991 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3926.97,3676.0,3494.97,3466.17,3441.49,3427.09,3328.34,3308.8,3153.49,3083.54,1577.71,1447.09,784.69,768.23\", \"Intensities\": \"0.47,0.43,1.0,0.37,0.51,0.57,0.3,0.4,0.3,0.65,0.96,0.41,0.27,0.59\", \"Widths\": \"14.47,14.96,16.05,8.83,4.72,31.48,7.01,32.22,13.61,18.96,15.89,23.2,3.33,17.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OCC(O)CO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3545.37,3424.0,3396.23,3343.77,3295.43,3231.66,3216.23,709.6\", \"Intensities\": \"0.28,0.45,1.0,0.4,0.16,0.43,0.33,0.15\", \"Widths\": \"14.77,8.6,16.25,12.52,12.16,28.61,5.16,15.48\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OCC(F)(F)F"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3746.97,3587.54,3040.34,2160.91,1469.71\", \"Intensities\": \"0.17,0.28,1.0,0.63,0.14\", \"Widths\": \"15.16,15.43,15.47,15.45,15.55\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N#CCCC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3778.86,3739.77,3657.49,3413.71,3357.14,3314.97,3257.37,3227.54,3161.71,3128.8,3017.71,2981.71,2877.83,769.26,711.66\", \"Intensities\": \"0.48,0.15,0.14,0.49,0.52,0.35,0.66,1.0,0.29,0.2,0.21,0.7,0.24,0.57,0.45\", \"Widths\": \"15.56,10.06,14.77,13.62,13.84,12.4,10.04,16.47,13.38,10.66,9.49,15.38,16.11,15.68,13.68\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Oc1ccccc1O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Oc1ccccc1O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Oc1ccccc1O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N#CCc1ccccc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OCCc1ccccc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3923.89,3838.51,3778.86,3715.09,3479.54,3330.4,3275.89,3077.37,3035.2,3011.54,2992.0,1563.31,1528.34,1379.2,1358.63,1348.34,717.83\", \"Intensities\": \"0.15,0.1,1.0,0.1,0.93,0.81,0.21,0.18,0.16,0.12,0.11,0.7,0.59,0.17,0.39,0.37,0.39\", \"Widths\": \"14.44,10.89,15.44,11.44,17.67,17.34,12.83,15.38,13.46,9.43,7.1,16.26,11.62,3.84,30.58,3.38,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OCc1ccccc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3764.46,3696.57,3341.71,3278.97,2997.14,2889.14,1341.14\", \"Intensities\": \"0.94,0.3,0.18,1.0,0.79,0.55,0.19\", \"Widths\": \"15.45,13.47,12.38,15.46,15.43,16.01,26.82\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Fc1ccccc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3805.6,3768.57,3509.37,3472.34,3049.6,2903.54,1384.34,1345.26\", \"Intensities\": \"1.0,0.4,0.1,0.12,0.51,0.53,0.61,0.52\", \"Widths\": \"15.73,10.61,11.87,16.17,15.14,17.52,17.11,12.62\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: c1ccncc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: c1ccc(C2CO2)cc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3846.74,3785.03,3765.49,1539.66,1442.97,1377.14\", \"Intensities\": \"0.22,1.0,0.49,0.34,0.26,0.86\", \"Widths\": \"12.38,17.16,5.64,14.79,12.56,20.73\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1=CC=CCC=C1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3839.54,3620.46,3492.91,3426.06,1549.94,1531.43\", \"Intensities\": \"0.24,0.14,0.13,0.61,1.0,0.7\", \"Widths\": \"15.17,14.78,13.01,15.55,31.95,6.05\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1=CCOC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3835.43,3391.09,2702.97,1507.77\", \"Intensities\": \"0.24,0.21,1.0,0.1\", \"Widths\": \"15.46,15.54,15.47,17.66\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1C=CCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3751.09,3343.77,2744.11\", \"Intensities\": \"0.13,0.19,1.0\", \"Widths\": \"16.45,15.36,15.47\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1C=CCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCC(=O)CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3471.31,3365.37,2674.17,1491.31\", \"Intensities\": \"0.18,0.54,1.0,0.11\", \"Widths\": \"14.29,15.5,15.46,31.16\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCCO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: c1ccc2c(c1)CCC2"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3839.54,2737.94,1519.09,1483.09,1372.0\", \"Intensities\": \"0.19,1.0,0.14,0.13,0.13\", \"Widths\": \"15.41,15.47,32.35,13.84,13.89\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1C=CCCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"2780.11,1506.74,1485.14,1463.54\", \"Intensities\": \"1.0,0.12,0.15,0.14\", \"Widths\": \"15.45,7.88,59.07,8.73\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1C=CCCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3900.23,3803.54,1533.49,1477.94,1441.94,1364.8,1341.14\", \"Intensities\": \"0.16,0.43,1.0,0.83,0.54,0.12,0.26\", \"Widths\": \"14.49,15.47,16.28,21.67,10.88,6.4,14.65\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1=CCCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3950.63,3622.51,3587.54,3574.17,3521.71,3270.74,3260.46,3170.97,3118.51,3031.09,1529.37,1513.94,1473.83,1441.94,719.89\", \"Intensities\": \"0.1,0.47,0.56,0.37,0.23,0.18,0.24,0.14,0.18,0.16,0.41,0.55,1.0,0.21,0.71\", \"Widths\": \"14.46,11.56,27.76,2.42,12.62,1.6,26.44,13.49,14.97,25.14,4.59,14.5,21.77,5.44,15.45\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: ON=C1CCCCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3374.63,2715.31,1496.46,1440.91\", \"Intensities\": \"0.3,1.0,0.23,0.25\", \"Widths\": \"15.44,15.47,18.61,24.55\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCCCCN1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCCCCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3638.97,3392.11,3241.94,3130.86,1544.8,1441.94\", \"Intensities\": \"0.46,0.98,0.21,0.1,1.0,0.76\", \"Widths\": \"19.31,15.74,15.04,15.3,18.04,14.87\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1COCCO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3681.14,3630.74,3608.11,3507.31,3472.34,3411.66,3352.0,3313.94,3269.71,3109.26,3079.43,1614.74,1567.43,1496.46,1451.2,1432.69,1402.86\", \"Intensities\": \"0.13,0.12,0.3,1.0,0.21,0.33,0.95,0.39,0.23,0.13,0.11,0.65,0.96,0.2,0.32,0.57,0.25\", \"Widths\": \"13.05,3.98,17.49,21.31,7.8,13.09,15.11,10.68,12.03,15.8,10.56,12.54,17.63,12.37,4.79,17.84,8.91\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1COCOC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(=O)c1cccnc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3611.2,3555.66,3408.57,3333.49,3301.6,3139.09,3113.37,3055.77,2763.66,1400.8\", \"Intensities\": \"0.17,0.4,0.12,0.56,0.16,0.15,0.71,0.17,1.0,0.22\", \"Widths\": \"12.87,15.11,15.44,15.56,8.25,3.75,15.74,21.92,15.48,20.77\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(=O)C1CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3350.97,3232.69,3184.34,3131.89,3056.8,2750.29,1498.51\", \"Intensities\": \"0.31,0.27,0.21,0.31,0.21,1.0,0.11\", \"Widths\": \"15.01,13.51,13.27,16.13,25.71,16.15,20.88\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(=O)CCC(C)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3182.29,3119.54,2900.46,2760.57\", \"Intensities\": \"0.39,0.14,0.26,1.0\", \"Widths\": \"15.36,13.2,14.93,15.47\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(N)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3352.0,3253.26,3120.57,3031.09,2964.23,2777.03,1507.77,1460.46\", \"Intensities\": \"0.13,0.4,0.11,0.24,0.52,1.0,0.21,0.13\", \"Widths\": \"14.44,15.22,12.7,19.38,15.35,15.49,16.71,11.72\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CNC(C)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3696.57,3573.14,3416.8,3358.17,3329.37,3203.89,3121.6,3108.23,3009.49,1499.54,1434.74,1403.89,731.2\", \"Intensities\": \"0.13,0.27,1.0,0.24,0.25,0.4,0.19,0.22,0.15,0.55,0.52,0.36,0.21\", \"Widths\": \"14.84,14.99,15.55,10.86,12.75,15.16,5.07,28.23,24.07,17.29,14.75,11.07,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)(O)C(C)(C)O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3310.86,3113.37,3096.91,3000.23,1503.66,1444.0,1432.69\", \"Intensities\": \"0.11,0.13,0.11,0.12,0.51,0.88,1.0\", \"Widths\": \"21.7,32.67,6.1,27.88,14.04,3.53,27.71\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)(C)C(C)(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)(C=O)CCC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3149.37,3112.34,3011.54,2172.23,1510.86,1444.0\", \"Intensities\": \"0.1,0.11,0.26,0.16,0.51,1.0\", \"Widths\": \"11.92,32.16,22.84,15.43,22.73,28.11\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)CC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3498.06,2724.57,1682.63,1534.51,1512.91,1446.06\", \"Intensities\": \"0.12,1.0,0.52,0.17,0.23,0.62\", \"Widths\": \"15.28,15.48,15.24,9.32,17.56,19.16\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)CC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3465.14,3263.54,2733.83,1510.86,1444.0\", \"Intensities\": \"0.33,1.0,0.6,0.11,0.25\", \"Widths\": \"15.6,15.51,15.44,27.99,24.67\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(=O)OCC(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(O)c1ccccc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3746.97,3607.09,3594.74,3574.17,3439.43,3411.66,3367.43,3325.26,3268.69,3221.37,3177.14,3147.31,3110.29,3025.94,3009.49,1510.86,1449.14,1425.49,739.43\", \"Intensities\": \"0.11,0.3,0.23,0.17,0.28,0.68,0.58,0.58,0.3,0.15,0.15,0.48,0.32,0.12,0.18,0.73,1.0,0.68,0.23\", \"Widths\": \"14.46,27.3,3.11,6.46,8.02,16.72,12.75,16.11,12.91,12.41,7.39,16.73,17.21,4.22,28.86,17.86,41.48,8.56,19.31\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(O)CC(C)(C)O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1(O)CCOC(=O)C1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Cc1cccc(C)c1C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Cc1ccc(C)c(C)c1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Cc1cc(C)cc(C)c1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3709.94,3508.34,3272.8,3077.37,3033.14,2924.11,2889.14,1505.71,1451.2,1424.46,1387.43,1360.69\", \"Intensities\": \"0.5,0.1,0.1,0.18,0.46,0.26,1.0,0.27,0.27,0.27,0.59,0.58\", \"Widths\": \"21.0,15.63,17.06,11.69,15.13,9.04,15.67,13.48,10.48,10.63,19.51,9.96\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Cc1ccncc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3873.49,3798.4,3724.34,3474.4,3376.69,3301.6,3101.03,3073.26,3025.94,3011.54,2915.89,1505.71,1457.37,1429.6,1396.69,1377.14,1346.29\", \"Intensities\": \"0.12,0.58,0.8,0.28,0.25,0.22,0.11,0.43,0.69,0.45,0.41,0.7,0.47,0.46,1.0,0.69,0.49\", \"Widths\": \"13.18,14.26,15.64,18.59,14.72,14.48,5.29,12.14,32.78,3.27,14.72,13.46,10.39,9.96,35.32,7.39,9.61\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Cc1cccnc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3786.06,3710.97,3546.4,3516.57,3433.26,3393.14,3275.89,3237.83,3074.29,3044.46,3030.06,3006.4,2925.14,1502.63,1452.23,1429.6,889.6\", \"Intensities\": \"0.31,0.49,0.13,0.19,0.56,0.14,0.16,0.23,0.45,0.18,0.21,0.28,0.37,0.52,0.33,0.38,1.0\", \"Widths\": \"14.22,15.28,10.16,14.56,15.62,9.99,11.62,15.31,16.0,5.78,10.33,10.65,14.6,15.77,8.6,14.94,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Cc1c[nH]cn1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3183.31,3100.0,3038.29,3021.83,2933.37,2907.66,1413.14,1381.26,1370.97\", \"Intensities\": \"0.14,0.24,0.24,0.17,0.37,1.0,0.1,0.16,0.17\", \"Widths\": \"14.2,15.64,31.89,5.24,6.69,16.16,10.51,3.7,28.32\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: Cc1ccncn1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3322.17,3307.77,3139.09,3023.89,2732.8,1487.2,1418.29\", \"Intensities\": \"1.0,0.81,0.21,0.11,0.87,0.2,0.21\", \"Widths\": \"30.24,5.35,15.08,47.54,15.44,19.32,23.4\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC(=O)OC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3669.83,3570.06,3527.89,3414.74,3386.97,3175.09,3147.31,3095.89,3018.74,2159.89,1498.51,1476.91,1424.46\", \"Intensities\": \"0.12,0.19,0.14,0.11,0.11,0.13,0.2,0.11,0.43,0.13,0.44,0.38,1.0\", \"Widths\": \"14.64,15.72,12.22,10.34,16.34,9.6,14.86,12.99,21.8,18.04,13.52,8.34,19.87\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC(C#N)C#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3607.09,3532.0,3510.4,3485.71,3438.4,3357.14,3264.57,3201.83,3181.26,3134.97,3110.29,3025.94,1577.71,1509.83,1480.0,1451.2,1437.83,1423.43,730.17\", \"Intensities\": \"0.38,0.14,0.23,0.19,0.37,0.38,0.29,0.16,0.12,0.14,0.21,0.22,0.58,0.87,0.34,1.0,0.68,0.49,0.21\", \"Widths\": \"14.66,7.06,14.48,9.38,14.63,19.57,14.78,15.02,7.33,8.27,24.97,22.35,13.79,14.43,7.52,31.12,1.86,2.51,15.42\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC(C)O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCCCOCCCC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3457.94,3262.51,2733.83,1420.34\", \"Intensities\": \"0.33,1.0,0.64,0.13\", \"Widths\": \"15.31,15.48,15.42,24.0\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCOC(C)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCOC(=O)C1CCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3479.54,3321.14,3167.89,2711.2\", \"Intensities\": \"0.12,1.0,0.21,0.47\", \"Widths\": \"14.71,15.52,14.87,15.42\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCOC(=O)CC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3412.69,3329.37,3280.0,2700.91,1417.26\", \"Intensities\": \"0.55,1.0,0.16,0.59,0.11\", \"Widths\": \"14.21,15.68,10.4,15.44,25.65\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCOC(=O)CO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3403.43,3298.51,3191.54,2693.71,1596.23\", \"Intensities\": \"0.53,0.35,0.11,1.0,0.15\", \"Widths\": \"18.81,14.76,14.56,15.48,15.59\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCOC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1459.43,1391.54,1318.51,1297.94\", \"Intensities\": \"0.5,1.0,0.7,0.69\", \"Widths\": \"9.75,12.08,14.82,7.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CN(C)C(=O)N(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3769.6,3455.89,3322.17,3251.2,3189.49,3016.69,2992.0,2900.46,2882.97,1530.4,1474.86,1401.83,1344.23\", \"Intensities\": \"0.41,0.25,0.12,1.0,0.14,0.21,0.38,0.16,0.34,0.23,0.19,0.11,0.13\", \"Widths\": \"15.43,15.25,14.74,15.5,11.96,8.19,16.56,3.13,16.31,15.76,13.58,12.6,32.41\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: COc1ccccc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3179.2,1401.83\", \"Intensities\": \"0.7,1.0\", \"Widths\": \"15.49,15.47\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3514.51,2856.23\", \"Intensities\": \"1.0,0.23\", \"Widths\": \"15.48,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"2922.06,643.77\", \"Intensities\": \"1.0,0.61\", \"Widths\": \"15.46,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3752.11,1117.94\", \"Intensities\": \"1.0,0.42\", \"Widths\": \"15.46,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3749.03,1089.14\", \"Intensities\": \"0.6,1.0\", \"Widths\": \"15.45,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"2708.11,1648.69,1591.09\", \"Intensities\": \"0.78,0.47,1.0\", \"Widths\": \"15.46,13.16,15.64\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3016.69,1506.74,1437.83\", \"Intensities\": \"0.15,0.45,1.0\", \"Widths\": \"15.48,13.74,15.57\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3483.66,3162.74,1546.86,1502.63,1421.37,722.97\", \"Intensities\": \"1.0,0.17,0.53,0.58,0.24,0.19\", \"Widths\": \"15.49,15.35,12.75,16.04,14.08,15.45\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3858.06,3043.43,1503.66,1445.03,1061.37\", \"Intensities\": \"1.0,0.17,0.16,0.16,0.6\", \"Widths\": \"15.41,15.45,15.65,13.84,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3456.91,3107.2,3047.54,2158.86,1486.17,1417.26\", \"Intensities\": \"0.17,0.16,1.0,0.41,0.13,0.11\", \"Widths\": \"15.4,11.9,15.51,15.45,15.61,14.12\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3392.11,3141.14,3058.86,2716.34,1662.06\", \"Intensities\": \"0.14,0.15,0.16,1.0,0.68\", \"Widths\": \"15.5,13.81,20.92,15.47,15.47\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3258.4,2903.54,2731.77,1592.11\", \"Intensities\": \"0.27,0.16,1.0,0.25\", \"Widths\": \"15.39,15.0,15.46,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: NC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3013.6,1516.0,1449.14\", \"Intensities\": \"0.1,0.44,1.0\", \"Widths\": \"19.65,15.2,15.93\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3623.54,3490.86,3422.97,3257.37,3071.2,3041.37,1558.17,1533.49,1498.51,1429.6,725.03\", \"Intensities\": \"0.2,0.93,0.27,0.94,0.19,0.1,1.0,0.86,0.27,0.7,0.3\", \"Widths\": \"14.73,15.27,13.32,15.48,15.75,9.73,19.05,9.13,9.19,19.1,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3587.54,3407.54,3332.46,3033.14,1573.6,1563.31,1530.4,1420.34\", \"Intensities\": \"0.26,0.35,0.63,0.15,0.53,0.6,1.0,0.37\", \"Widths\": \"15.21,14.18,15.59,20.61,1.97,20.14,16.29,14.82\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: COC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3642.06,3466.17,1410.06,1316.46\", \"Intensities\": \"0.78,0.46,1.0,0.62\", \"Widths\": \"15.56,15.2,15.53,14.6\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3681.14,3636.91,3227.54,1451.2,1357.6\", \"Intensities\": \"0.2,1.0,0.19,0.66,0.69\", \"Widths\": \"10.24,15.55,15.28,17.23,15.6\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1CO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3982.51,3938.29,3748.0,3117.49,2892.23,2737.94,968.8,851.54\", \"Intensities\": \"0.47,0.14,0.12,0.52,0.42,1.0,0.11,0.15\", \"Widths\": \"13.17,11.03,15.17,15.34,15.08,15.49,15.66,15.55\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: NC(N)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3008.46,1521.14,1451.2\", \"Intensities\": \"0.11,0.37,1.0\", \"Widths\": \"19.9,16.1,17.61\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3846.74,1062.4\", \"Intensities\": \"1.0,1.0\", \"Widths\": \"15.43,15.48\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC#C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3974.29,3821.03,2154.74,1071.66\", \"Intensities\": \"0.16,0.96,0.29,1.0\", \"Widths\": \"14.3,15.33,15.47,15.49\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"2254.51\", \"Intensities\": \"0.48\", \"Widths\": \"15.35\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N#CC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3835.43,3780.91,3565.94,2776.0,2326.51,1592.11,1072.69\", \"Intensities\": \"0.24,0.17,0.51,1.0,0.31,0.34,0.25\", \"Widths\": \"15.56,13.37,15.47,15.46,15.41,15.45,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3600.91,2746.17,2188.69,1548.91\", \"Intensities\": \"0.66,1.0,0.2,0.24\", \"Widths\": \"15.48,15.46,15.43,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N#CC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"2728.69,1594.17\", \"Intensities\": \"1.0,0.68\", \"Widths\": \"15.5,15.48\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=CC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3040.34,1511.89,1457.37\", \"Intensities\": \"0.45,1.0,0.76\", \"Widths\": \"15.48,15.73,13.36\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC#CC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3994.86,3854.97,3169.94,3024.91,1508.8,1494.4,1425.49,1062.4\", \"Intensities\": \"0.12,1.0,0.11,0.13,0.3,0.44,0.6,0.84\", \"Widths\": \"6.11,21.99,14.59,33.91,3.62,28.27,19.86,15.49\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CCC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3426.06,3046.51,3021.83,2169.14,1486.17,1414.17\", \"Intensities\": \"0.12,0.22,0.38,0.29,0.7,1.0\", \"Widths\": \"15.62,7.54,22.23,15.43,14.95,17.56\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3720.23,3522.74,3102.06,2860.34,1568.46\", \"Intensities\": \"1.0,0.12,0.11,0.2,0.27\", \"Widths\": \"15.48,15.04,15.36,15.36,15.48\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N#CCN"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3903.31,3813.83,3479.54,3281.03,3076.34,1554.06,1532.46,1061.37,735.31\", \"Intensities\": \"0.45,0.34,1.0,0.62,0.2,0.41,0.29,0.5,0.21\", \"Widths\": \"15.41,14.63,15.59,15.28,15.22,34.35,7.46,15.49,15.38\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CCO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"2720.46,1679.54,1499.54,1429.6\", \"Intensities\": \"1.0,0.58,0.12,0.27\", \"Widths\": \"15.48,15.48,14.59,16.45\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3502.17,3411.66,3265.6,2688.57,1592.11\", \"Intensities\": \"0.15,0.47,0.44,1.0,0.16\", \"Widths\": \"14.27,15.49,15.15,15.49,15.53\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: COC=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3489.83,3463.09,3317.03,3140.11,3118.51,2717.37,1648.69,1513.94,731.2\", \"Intensities\": \"0.2,0.55,0.12,0.15,0.11,1.0,0.63,0.16,0.22\", \"Widths\": \"7.14,25.36,14.73,18.16,7.72,15.45,15.47,14.99,15.45\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=CCO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1513.94,1493.37,1451.2\", \"Intensities\": \"0.55,0.2,1.0\", \"Widths\": \"19.17,3.73,17.18\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCCC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3493.94,3465.14,3268.69,3020.8,1566.4,1540.69,1500.57,1446.06,721.94\", \"Intensities\": \"0.48,0.72,0.51,0.12,0.66,0.58,0.48,1.0,0.24\", \"Widths\": \"9.89,16.48,15.23,22.3,14.22,9.75,19.28,18.86,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCCO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3497.03,3381.83,3291.31,3093.83,1581.83,1563.31,1527.31,1497.49,1424.46\", \"Intensities\": \"0.11,1.0,0.21,0.21,0.4,0.95,0.48,0.16,0.46\", \"Widths\": \"14.06,15.64,12.72,15.54,1.95,20.65,10.41,7.58,19.78\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCOC"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3752.11,3693.49,3657.49,3524.8,3471.31,3021.83,1518.06,1460.46,1415.2,1328.8\", \"Intensities\": \"0.11,0.13,0.16,0.14,0.21,0.21,0.71,1.0,0.89,0.53\", \"Widths\": \"11.28,12.0,15.4,13.32,16.37,20.88,13.37,18.08,20.22,14.2\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3750.06,3680.11,3549.49,3479.54,3392.11,3358.17,3229.6,3113.37,3083.54,3039.31,3026.97,2992.0,1503.66,1445.03,1422.4,1370.97\", \"Intensities\": \"0.17,1.0,0.36,0.21,0.17,0.13,0.13,0.12,0.49,0.18,0.19,0.13,0.43,0.99,0.94,0.73\", \"Widths\": \"12.8,15.53,14.63,14.0,15.5,13.27,14.85,6.64,15.77,4.63,24.43,10.71,12.11,47.69,8.82,12.98\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1CO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3773.71,3690.4,3502.17,3305.71,3208.0,3033.14,1594.17,1473.83,1449.14,1354.51\", \"Intensities\": \"0.3,0.1,0.35,0.15,0.38,0.2,1.0,0.66,0.77,0.48\", \"Widths\": \"15.35,14.07,15.17,14.66,15.53,15.72,15.56,8.58,47.01,14.95\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CN1CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3709.94,3575.2,3471.31,3421.94,3288.23,3088.69,3015.66,1418.29,1359.66,1326.74,731.2\", \"Intensities\": \"0.34,0.32,0.33,1.0,0.54,0.58,0.32,0.27,0.1,0.28,0.25\", \"Widths\": \"20.58,14.72,12.11,15.67,14.99,15.38,13.67,14.87,8.65,16.19,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OC1CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"1489.26,1440.91,1424.46\", \"Intensities\": \"1.0,0.36,0.64\", \"Widths\": \"15.73,3.53,14.84\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1CCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3600.91,3499.09,1513.94,1471.77,1458.4,1403.89\", \"Intensities\": \"0.21,0.62,1.0,0.53,0.29,0.24\", \"Widths\": \"14.65,15.91,15.94,13.06,0.77,12.94\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1COC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3992.8,3918.74,3585.49,3442.51,3260.46,3152.46,3117.49,3041.37,1512.91,1496.46,1467.66,1444.0,1409.03,721.94\", \"Intensities\": \"0.19,0.2,1.0,0.47,0.39,0.45,0.17,0.32,0.2,0.15,0.19,0.11,0.21,0.85\", \"Widths\": \"8.58,14.35,15.47,15.0,14.93,15.63,9.77,16.65,14.9,5.8,11.28,8.11,20.64,15.48\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)=NO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3795.31,3486.74,3452.8,871.09\", \"Intensities\": \"1.0,0.22,0.2,0.41\", \"Widths\": \"15.41,16.25,11.76,15.49\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: c1cc[nH]c1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3877.6,3792.23,3715.09,3447.66,3427.09,3096.91,3025.94,2967.31,891.66\", \"Intensities\": \"0.16,0.44,0.46,0.51,0.29,0.18,0.22,0.14,0.66\", \"Widths\": \"13.05,14.53,15.23,17.36,6.66,14.3,15.63,13.5,15.47\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: c1c[nH]cn1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3899.2,3765.49,3631.77,3507.31,3438.4,3328.34,3014.63\", \"Intensities\": \"0.21,1.0,0.15,0.42,0.12,0.18,0.17\", \"Widths\": \"14.73,15.47,14.96,15.25,12.82,14.96,15.35\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: c1ccoc1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3896.11,3856.0,3758.29,3684.23,3649.26,3601.94,3591.66,3453.83,3428.11,3408.57,3360.23,3165.83,2998.17,2950.86\", \"Intensities\": \"0.17,0.7,0.85,0.71,0.1,0.65,0.62,1.0,0.5,0.41,0.47,0.11,0.75,0.33\", \"Widths\": \"9.74,14.83,15.21,14.43,5.75,25.81,3.76,16.7,8.18,7.24,13.08,14.98,15.54,12.26\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: c1cocn1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3120.57,3005.37,1521.14,1451.2\", \"Intensities\": \"0.1,0.12,0.42,1.0\", \"Widths\": \"14.98,15.53,13.72,15.55\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3606.06,3489.83,3364.34,3290.29,3265.6,3163.77,3118.51,3007.43,1511.89,1449.14,1424.46,747.66\", \"Intensities\": \"0.4,0.14,0.53,0.51,0.29,0.35,0.36,0.13,0.49,0.71,1.0,0.12\", \"Widths\": \"18.17,15.45,15.69,15.29,7.99,12.75,17.48,25.96,15.97,8.09,20.45,15.41\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)(C)O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3842.63,3789.14,3541.26,3316.0,3131.89,3056.8,2777.03,2329.6,1070.63\", \"Intensities\": \"0.23,0.21,0.18,0.75,0.18,0.14,1.0,0.24,0.27\", \"Widths\": \"15.74,19.24,15.19,15.43,15.26,16.08,15.46,15.4,15.48\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC(C)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3804.57,3538.17,3329.37,3126.74,3060.91,2742.06,2191.77\", \"Intensities\": \"0.14,0.15,0.69,0.22,0.17,1.0,0.13\", \"Widths\": \"15.36,15.03,15.43,15.35,14.67,15.46,15.4\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(=O)C#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3667.77,3410.63,3133.94,2882.97,2829.49,956.46,836.11\", \"Intensities\": \"0.26,0.21,0.61,0.24,1.0,0.21,0.16\", \"Widths\": \"15.46,15.93,15.37,12.02,15.53,15.54,15.02\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N#CC(=N)N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3825.14,3812.8,3192.57,2907.66,2779.09,1068.57,956.46,820.69\", \"Intensities\": \"0.13,0.11,0.6,0.27,1.0,0.14,0.15,0.13\", \"Widths\": \"28.21,4.17,15.43,14.8,15.49,14.99,15.58,15.08\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC(N)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3948.57,3743.89,3285.14,3126.74,3062.97,2743.09,2726.63,1599.31\", \"Intensities\": \"0.11,0.1,0.18,0.29,0.21,0.98,1.0,0.57\", \"Widths\": \"14.4,15.32,15.11,15.55,14.15,6.8,32.79,15.47\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(=O)C=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3955.77,3648.23,3623.54,3445.6,3103.09,2912.8,2826.4,2737.94,1543.77,958.51,824.8\", \"Intensities\": \"0.11,0.25,0.19,0.1,0.32,0.29,1.0,0.69,0.18,0.22,0.22\", \"Widths\": \"14.71,17.35,9.17,15.26,15.25,14.05,15.56,14.56,15.46,15.52,15.11\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N=C(N)C=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3229.6,2899.43,2732.8,2689.6,1675.43,959.54,833.03\", \"Intensities\": \"0.28,0.26,1.0,0.27,0.36,0.15,0.15\", \"Widths\": \"15.37,15.02,15.61,10.8,15.45,15.51,15.06\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: NC(=O)C=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3974.29,3851.89,3170.97,3019.77,3013.6,1526.29,1501.6,1430.63,1062.4\", \"Intensities\": \"0.14,1.0,0.14,0.13,0.13,0.16,0.53,0.91,0.74\", \"Widths\": \"17.94,16.56,15.78,29.32,1.83,4.85,15.28,21.0,15.4\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3012.57,2177.37,1493.37,1420.34\", \"Intensities\": \"0.24,0.16,0.49,1.0\", \"Widths\": \"29.09,15.43,15.6,17.59\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)C#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3737.71,3658.51,3431.2,3375.66,2858.29,1421.37\", \"Intensities\": \"0.11,1.0,0.22,0.1,0.22,0.14\", \"Widths\": \"12.91,15.45,15.29,13.08,15.31,29.06\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(N)C#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3972.23,3945.49,3861.14,3824.11,3720.23,3596.8,3486.74,3433.26,3397.26,3251.2,3181.26,3111.31,3033.14,1499.54,1482.06,1428.57,1420.34,1064.46,750.74\", \"Intensities\": \"0.24,0.18,0.65,0.52,0.14,0.19,1.0,0.24,0.73,0.13,0.15,0.67,0.12,0.16,0.12,0.37,0.32,0.77,0.3\", \"Widths\": \"15.01,9.55,15.63,11.64,14.33,14.38,15.52,10.17,14.01,14.2,13.13,16.29,13.37,27.67,5.88,25.79,1.25,15.49,15.36\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C#CC(C)O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3947.54,3600.91,3474.4,3431.2,3394.17,3237.83,3107.2,3032.11,1423.43,1411.09,755.89\", \"Intensities\": \"0.1,0.19,0.87,0.21,1.0,0.13,0.58,0.15,0.25,0.19,0.43\", \"Widths\": \"15.89,14.59,13.81,9.1,15.7,13.76,15.62,13.65,26.94,2.51,15.47\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(O)C#N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3676.0,3012.57,2722.51,1689.83,1507.77,1437.83\", \"Intensities\": \"0.1,0.11,1.0,0.49,0.19,0.4\", \"Widths\": \"15.58,19.23,15.47,15.49,13.56,20.02\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)C=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3578.29,3396.23,3298.51,3181.26,3146.29,2714.29,1616.8,1573.6,1499.54,1434.74,718.86\", \"Intensities\": \"0.33,0.61,0.35,0.1,0.11,1.0,0.57,0.25,0.12,0.15,0.23\", \"Widths\": \"15.23,17.32,14.6,11.64,16.01,15.45,15.72,11.64,13.92,16.47,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(=O)CO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3428.11,3112.34,2768.8,1592.11,1519.09,1482.06\", \"Intensities\": \"0.26,0.2,1.0,0.2,0.18,0.14\", \"Widths\": \"15.72,15.69,15.48,15.78,20.83,15.17\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CN(C)C=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3241.94,3224.46,3123.66,2902.51,2762.63,1493.37,1433.71,954.4,820.69\", \"Intensities\": \"0.25,0.19,0.2,0.33,1.0,0.1,0.1,0.11,0.11\", \"Widths\": \"30.86,5.88,15.3,14.95,15.49,45.25,13.74,15.11,15.49\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC(N)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3967.09,3196.69,3035.2,2970.4,2891.2,2756.46,1519.09\", \"Intensities\": \"0.43,0.49,0.16,0.52,0.28,1.0,0.16\", \"Widths\": \"13.77,15.24,12.36,15.26,14.25,15.48,15.55\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CNC(N)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3671.89,3542.29,3449.71,3419.89,3306.74,3161.71,3108.23,3043.43,2816.11,1489.26,1422.4,1400.8,1389.49\", \"Intensities\": \"0.25,0.12,0.34,1.0,0.13,0.66,0.27,0.31,1.0,0.22,0.16,0.12,0.14\", \"Widths\": \"23.2,14.02,8.34,15.76,14.12,15.45,12.78,19.61,15.48,15.79,20.57,3.14,17.73\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: COC(C)=N"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3452.8,3260.46,3120.57,3047.54,2728.69\", \"Intensities\": \"0.26,1.0,0.13,0.13,0.77\", \"Widths\": \"15.15,15.49,14.77,19.38,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: COC(C)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3407.54,3168.91,2908.69,2724.57,927.66,797.03\", \"Intensities\": \"0.21,0.89,0.3,1.0,0.12,0.14\", \"Widths\": \"15.44,15.37,15.17,15.48,15.07,15.49\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: COC(N)=O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3473.37,3403.43,3267.66,3008.46,1570.51,1538.63,1512.91,1454.29,1423.43,717.83\", \"Intensities\": \"1.0,0.12,0.4,0.15,0.58,0.52,0.82,0.95,0.27,0.27\", \"Widths\": \"15.52,12.34,14.97,35.56,11.11,8.07,18.54,25.05,4.76,15.45\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(C)CO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3859.09,3716.11,3594.74,3586.51,3517.6,3449.71,3403.43,3326.29,3250.17,3158.63,3093.83,3024.91,1557.14,1530.4,1509.83,1446.06,1419.31,760.0,721.94\", \"Intensities\": \"0.21,0.13,0.38,0.42,0.43,0.7,0.73,0.25,0.4,0.25,0.47,0.14,0.46,1.0,0.33,0.57,0.25,0.41,0.3\", \"Widths\": \"15.05,14.63,0.89,23.86,13.96,13.03,16.47,13.65,14.59,11.95,22.77,19.9,7.92,16.99,3.17,16.55,7.84,16.02,11.74\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC(O)CO"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3015.66,1513.94,1451.2\", \"Intensities\": \"0.14,0.48,1.0\", \"Widths\": \"24.43,24.47,24.3\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CCC(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3611.2,3419.89,3372.57,3327.31,3291.31,3140.11,3119.54,3103.09,3034.17,3009.49,1583.89,1561.26,1512.91,1504.69,1430.63\", \"Intensities\": \"0.14,0.74,0.52,0.45,0.15,0.23,0.23,0.19,0.11,0.13,0.43,0.68,0.54,0.53,1.0\", \"Widths\": \"15.02,16.02,17.88,12.09,9.61,8.77,55.85,5.61,8.52,39.15,7.63,15.35,24.82,3.23,21.61\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: COC(C)C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3579.31,3480.57,3109.26,3020.8,1521.14,1468.69,1449.14,1419.31,1332.91\", \"Intensities\": \"0.16,0.15,0.11,0.22,0.97,1.0,0.9,0.57,0.36\", \"Widths\": \"15.59,14.88,13.78,20.69,15.43,36.16,7.89,10.55,14.16\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1(C)CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3716.11,3599.89,3448.69,3371.54,3238.86,3133.94,3108.23,3026.97,2989.94,1502.63,1457.37,1445.03,1420.34,1377.14\", \"Intensities\": \"0.61,0.33,0.14,0.32,0.24,0.39,0.44,0.24,0.11,0.71,0.76,1.0,0.82,0.57\", \"Widths\": \"15.48,14.93,13.71,15.88,14.66,9.54,23.52,21.22,9.37,14.71,2.48,31.21,9.07,12.06\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1(C)CO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3587.54,3570.06,3477.49,3264.57,3229.6,3102.06,3030.06,1517.03,1458.4,1433.71,1411.09,1314.4,762.06\", \"Intensities\": \"0.2,0.23,0.15,1.0,0.15,0.11,0.1,0.28,0.26,0.23,0.21,0.11,0.13\", \"Widths\": \"6.81,33.3,22.07,15.55,6.68,14.23,18.28,15.88,15.65,9.8,11.94,15.26,15.43\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1(O)CC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3664.69,3584.46,3299.54,2717.37,1460.46\", \"Intensities\": \"0.24,0.41,0.47,1.0,0.13\", \"Widths\": \"13.83,15.62,15.56,15.48,17.27\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: N=C1CCO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3441.49,2668.0\", \"Intensities\": \"0.28,1.0\", \"Widths\": \"15.46,15.48\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3355.09,2670.06\", \"Intensities\": \"0.16,1.0\", \"Widths\": \"15.45,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCN1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3589.6,3418.86,2614.51\", \"Intensities\": \"0.21,0.33,1.0\", \"Widths\": \"15.18,15.48,15.46\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CCO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3857.03,3800.46,3612.23,3455.89,2640.23,1525.26,1461.49\", \"Intensities\": \"0.1,0.14,0.1,0.21,1.0,0.16,0.1\", \"Widths\": \"13.52,15.51,14.4,16.54,15.47,19.4,13.61\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1CNC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3529.94,3440.46,2628.91,1509.83,1455.31\", \"Intensities\": \"0.32,0.26,1.0,0.14,0.11\", \"Widths\": \"16.16,14.76,15.47,17.24,13.19\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: O=C1COC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3026.97,1520.11,1498.51,1460.46,1431.66\", \"Intensities\": \"0.13,0.46,0.99,0.96,1.0\", \"Widths\": \"20.44,3.42,16.21,16.92,48.21\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1CCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3650.29,3551.54,3513.49,3435.31,3252.23,3129.83,3110.29,3030.06,1533.49,1514.97,1466.63,1444.0,1436.8,1412.11\", \"Intensities\": \"0.31,0.15,0.92,0.28,0.12,0.13,0.24,0.1,0.71,1.0,0.56,0.43,0.43,0.41\", \"Widths\": \"15.02,8.0,15.61,13.87,14.54,5.74,16.82,25.57,6.42,33.12,18.21,16.56,2.76,8.91\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1CCO1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3655.43,3548.46,3505.26,1528.34,1466.63,1446.06\", \"Intensities\": \"0.13,0.15,0.66,1.0,0.53,0.65\", \"Widths\": \"13.93,10.34,15.6,18.81,6.11,32.81\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1COC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3549.49,3432.23,3399.31,3257.37,3087.66,1498.51,1473.83,1436.8,1420.34,746.63\", \"Intensities\": \"0.11,0.31,1.0,0.18,0.4,0.43,0.32,0.53,0.55,0.12\", \"Widths\": \"14.66,8.82,15.77,14.68,15.3,12.38,11.73,6.93,33.83,15.43\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OC1CCC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3647.2,3513.49,3433.26,3373.6,3276.91,3217.26,1514.97,1502.63,1458.4,1448.11,728.11\", \"Intensities\": \"0.17,0.89,0.95,0.29,0.37,0.33,1.0,0.66,0.6,0.67,0.32\", \"Widths\": \"16.14,21.36,15.72,13.38,14.73,14.49,26.72,1.61,2.84,23.16,15.44\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OC1COC1"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3766.51,3755.2,3026.97,3010.51,1512.91,1462.51,1417.26,1406.97,1343.2\", \"Intensities\": \"0.13,0.11,0.24,0.16,1.0,0.95,0.74,0.81,0.3\", \"Widths\": \"27.36,3.51,33.17,3.65,17.54,16.05,3.57,23.46,12.89\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1CC1C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3790.17,3486.74,3410.63,3382.86,3331.43,3190.51,3118.51,3101.03,3036.23,3015.66,1565.37,1505.71,1474.86,1464.57,1455.31,1445.03,1418.29,1376.11\", \"Intensities\": \"0.34,0.1,0.1,0.2,0.11,0.38,0.18,0.2,0.27,0.26,1.0,0.51,0.89,0.82,0.81,0.75,0.83,0.5\", \"Widths\": \"15.38,21.15,4.98,26.04,11.86,15.61,7.19,31.19,38.69,9.57,15.86,9.45,47.01,3.92,3.31,3.08,9.77,11.77\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1CN1C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3766.51,3746.97,3617.37,3546.4,3515.54,3392.11,3097.94,3024.91,3006.4,1500.57,1449.14,1403.89\", \"Intensities\": \"0.12,0.24,0.21,0.1,0.23,0.25,0.27,0.2,0.18,0.44,1.0,0.53\", \"Widths\": \"5.37,16.83,14.48,9.15,15.55,16.19,19.13,31.07,7.18,12.59,19.19,18.57\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: CC1OC1C"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3895.09,3774.74,3707.89,3644.11,3521.71,3458.97,3403.43,3385.94,3359.2,3298.51,3252.23,3184.34,3137.03,3100.0,3044.46,1413.14,1375.09,1325.71,806.29,735.31\", \"Intensities\": \"0.21,0.13,0.3,0.25,0.35,0.27,0.57,0.35,0.3,1.0,0.36,0.13,0.23,0.44,0.34,0.29,0.23,0.11,0.62,0.4\", \"Widths\": \"15.09,13.57,15.15,13.98,14.83,12.91,16.5,5.18,9.6,15.69,11.76,12.58,10.95,15.0,13.46,17.24,11.88,12.31,15.59,14.04\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: OC1CC1O"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3270.74,1497.49,1442.97,1434.74\", \"Intensities\": \"0.24,0.88,0.97,1.0\", \"Widths\": \"15.67,13.35,2.83,26.19\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1C2CC1C2"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given Infrared Spectrum {\"Wavenumbers\": \"3809.71,3663.66,3585.49,3298.51,1469.71,1411.09,1390.51\", \"Intensities\": \"0.17,0.4,0.16,0.43,0.59,1.0,0.6\", \"Widths\": \"15.03,15.71,12.85,15.45,19.32,33.08,7.07\"}, the spectra data includes the wavenumber positions in reciprocal centimeters as Wavenumbers and corresponding intensities as Intensities, corresponding width as Widths. Based on the information provided, predict which compound the spectra correspond to and give the SMILES of that compound. Please answer strictly in the format ##SMILES: ."
+            },
+            {
+                "from": "gpt",
+                "value": "##SMILES: C1C2CC1O2"
+            }
+        ],
+        "system": "You are a chemist. Given the description of spectras extracted from a compound, you are skilled at analyzing this spectra to infer whether the compound contains certain fragments or functional groups, and then combining information to deduce which compound this spectra correspond to, and accurately provide the SMILES of the compound."
+    }
+]

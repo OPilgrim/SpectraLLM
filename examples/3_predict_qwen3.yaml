@@ -1,0 +1,33 @@
+# Qwen3-32B 模型 LoRA 微调配置文件 - 基于finetune.sh
+
+# 基本配置
+model_name_or_path: ./models/Qwen3-32B
+stage: sft
+do_predict: true
+finetuning_type: lora
+template: qwen3
+
+# 适配器配置
+adapter_name_or_path: ./adapters/all
+
+# 量化配置
+quantization_method: hqq
+
+# 数据配置
+dataset_dir: ./data/
+eval_dataset: qm9s_all_test
+cutoff_len: 2000
+max_samples: 5000
+preprocessing_num_workers: 48
+
+# 预测参数
+per_device_eval_batch_size: 8
+predict_with_generate: true
+max_new_tokens: 1024
+
+# 输出配置
+output_dir: ./data/test/mix_all_singleSpecs/qm9s_all_test
+
+# 性能优化
+flash_attn: auto
+trust_remote_code: true
