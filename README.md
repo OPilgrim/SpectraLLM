@@ -41,7 +41,7 @@ They all start with: bash script/train.sh , need to manually adjust the mode in 
 
 4、Pre-trained Adapter
 
-You can load this adapter for inference or use it as a base for further fine-tuning on your dataset.
+You can load this adapter (https://huggingface.co/ccjh/SpectraLLM_32B & https://huggingface.co/ccjh/widthIrplus_msg_qm9s_mb_msd) for inference or use it as a base for further fine-tuning on your dataset.
 
 ## Citation
 If you find our work helpful, please cite the paper:
